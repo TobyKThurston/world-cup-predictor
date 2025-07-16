@@ -6,7 +6,8 @@ from sklearn.preprocessing import LabelEncoder
 import joblib
 
 # Load cleaned data
-data = pd.read_csv("data/processed/cleaned_matches.csv")
+data = pd.read_csv("data/processed/cleaned_matches_extended.csv")
+
 
 # Encode team names
 le_team = LabelEncoder()
@@ -42,3 +43,5 @@ print(classification_report(y_test, y_pred))
 # Save model and encoder
 joblib.dump(model, "src/model.pkl")
 joblib.dump(le_team, "src/label_encoder.pkl")
+
+
