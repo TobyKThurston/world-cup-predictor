@@ -51,18 +51,35 @@ def simulate_round(matches):
 def build_next_round(teams):
     return [(teams[i], teams[i+1]) for i in range(0, len(teams), 2)]
 
-def simulate_tournament():
+def simulate_tournament(initial_round, verbose=False):
     round_number = 1
     matches = initial_round
+    all_rounds = [matches]
+    winners_by_round = []
 
     while len(matches) > 1:
-        print(f"\n--- Round {round_number} ---")
         winners = simulate_round(matches)
+        winners_by_round.append(winners)
         matches = build_next_round(winners)
+        all_rounds.append(matches)
         round_number += 1
 
-    print(f"\n🏆 Champion: {matches[0][0]}")
-    return matches[0][0]
+    final_winner = matches[0][0]
+    if verbose:
+        print(f"\n🏆 Champion: {final_winner}")
+    return final_winner, winners_by_round
 
 if __name__ == "__main__":
-    simulate_tournament()
+    demo_round = [
+        ("Brazil", "Germany"),
+        ("Argentina", "France"),
+        ("England", "Netherlands"),
+        ("Spain", "Croatia"),
+        ("Portugal", "USA"),
+        ("Italy", "Switzerland"),
+        ("Japan", "South Korea"),
+        ("Uruguay", "Mexico")
+    ]
+    simulate_tournament(demo_round, verbose=True)
+
+
