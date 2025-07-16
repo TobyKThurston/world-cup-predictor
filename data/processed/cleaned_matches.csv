@@ -1,0 +1,4573 @@
+Year,Stage,Home Team Name,Away Team Name,Home Team Goals,Away Team Goals,Result
+1930.0,Group 1,France,Mexico,4.0,1.0,HomeWin
+1930.0,Group 4,USA,Belgium,3.0,0.0,HomeWin
+1930.0,Group 2,Yugoslavia,Brazil,2.0,1.0,HomeWin
+1930.0,Group 3,Romania,Peru,3.0,1.0,HomeWin
+1930.0,Group 1,Argentina,France,1.0,0.0,HomeWin
+1930.0,Group 1,Chile,Mexico,3.0,0.0,HomeWin
+1930.0,Group 2,Yugoslavia,Bolivia,4.0,0.0,HomeWin
+1930.0,Group 4,USA,Paraguay,3.0,0.0,HomeWin
+1930.0,Group 3,Uruguay,Peru,1.0,0.0,HomeWin
+1930.0,Group 1,Chile,France,1.0,0.0,HomeWin
+1930.0,Group 1,Argentina,Mexico,6.0,3.0,HomeWin
+1930.0,Group 2,Brazil,Bolivia,4.0,0.0,HomeWin
+1930.0,Group 4,Paraguay,Belgium,1.0,0.0,HomeWin
+1930.0,Group 3,Uruguay,Romania,4.0,0.0,HomeWin
+1930.0,Group 1,Argentina,Chile,3.0,1.0,HomeWin
+1930.0,Semi-finals,Argentina,USA,6.0,1.0,HomeWin
+1930.0,Semi-finals,Uruguay,Yugoslavia,6.0,1.0,HomeWin
+1930.0,Final,Uruguay,Argentina,4.0,2.0,HomeWin
+1934.0,Preliminary round,Austria,France,3.0,2.0,HomeWin
+1934.0,Preliminary round,Hungary,Egypt,4.0,2.0,HomeWin
+1934.0,Preliminary round,Switzerland,Netherlands,3.0,2.0,HomeWin
+1934.0,Preliminary round,Sweden,Argentina,3.0,2.0,HomeWin
+1934.0,Preliminary round,Germany,Belgium,5.0,2.0,HomeWin
+1934.0,Preliminary round,Spain,Brazil,3.0,1.0,HomeWin
+1934.0,Preliminary round,Italy,USA,7.0,1.0,HomeWin
+1934.0,Preliminary round,Czechoslovakia,Romania,2.0,1.0,HomeWin
+1934.0,Quarter-finals,Czechoslovakia,Switzerland,3.0,2.0,HomeWin
+1934.0,Quarter-finals,Germany,Sweden,2.0,1.0,HomeWin
+1934.0,Quarter-finals,Italy,Spain,1.0,1.0,Draw
+1934.0,Quarter-finals,Austria,Hungary,2.0,1.0,HomeWin
+1934.0,Quarter-finals,Italy,Spain,1.0,0.0,HomeWin
+1934.0,Semi-finals,Italy,Austria,1.0,0.0,HomeWin
+1934.0,Semi-finals,Czechoslovakia,Germany,3.0,1.0,HomeWin
+1934.0,Match for third place,Germany,Austria,3.0,2.0,HomeWin
+1934.0,Final,Italy,Czechoslovakia,2.0,1.0,HomeWin
+1938.0,First round,Switzerland,Germany,1.0,1.0,Draw
+1938.0,First round,Hungary,Dutch East Indies,6.0,0.0,HomeWin
+1938.0,First round,France,Belgium,3.0,1.0,HomeWin
+1938.0,First round,Cuba,Romania,3.0,3.0,Draw
+1938.0,First round,Italy,Norway,2.0,1.0,HomeWin
+1938.0,First round,Brazil,Poland,6.0,5.0,HomeWin
+1938.0,First round,Czechoslovakia,Netherlands,3.0,0.0,HomeWin
+1938.0,First round,Cuba,Romania,2.0,1.0,HomeWin
+1938.0,First round,Switzerland,Germany,4.0,2.0,HomeWin
+1938.0,Quarter-finals,Brazil,Czechoslovakia,1.0,1.0,Draw
+1938.0,Quarter-finals,Hungary,Switzerland,2.0,0.0,HomeWin
+1938.0,Quarter-finals,Sweden,Cuba,8.0,0.0,HomeWin
+1938.0,Quarter-finals,Italy,France,3.0,1.0,HomeWin
+1938.0,Quarter-finals,Brazil,Czechoslovakia,2.0,1.0,HomeWin
+1938.0,Semi-finals,Hungary,Sweden,5.0,1.0,HomeWin
+1938.0,Semi-finals,Italy,Brazil,2.0,1.0,HomeWin
+1938.0,Match for third place,Brazil,Sweden,4.0,2.0,HomeWin
+1938.0,Final,Italy,Hungary,4.0,2.0,HomeWin
+1950.0,Group 1,Brazil,Mexico,4.0,0.0,HomeWin
+1950.0,Group 2,England,Chile,2.0,0.0,HomeWin
+1950.0,Group 2,Spain,USA,3.0,1.0,HomeWin
+1950.0,Group 3,Sweden,Italy,3.0,2.0,HomeWin
+1950.0,Group 1,Yugoslavia,Switzerland,3.0,0.0,HomeWin
+1950.0,Group 1,Brazil,Switzerland,2.0,2.0,Draw
+1950.0,Group 1,Yugoslavia,Mexico,4.0,1.0,HomeWin
+1950.0,Group 2,Spain,Chile,2.0,0.0,HomeWin
+1950.0,Group 3,Sweden,Paraguay,2.0,2.0,Draw
+1950.0,Group 2,USA,England,1.0,0.0,HomeWin
+1950.0,Group 1,Brazil,Yugoslavia,2.0,0.0,HomeWin
+1950.0,Group 2,Spain,England,1.0,0.0,HomeWin
+1950.0,Group 3,Italy,Paraguay,2.0,0.0,HomeWin
+1950.0,Group 4,Uruguay,Bolivia,8.0,0.0,HomeWin
+1950.0,Group 1,Switzerland,Mexico,2.0,1.0,HomeWin
+1950.0,Group 2,Chile,USA,5.0,2.0,HomeWin
+1950.0,Group 6,Uruguay,Spain,2.0,2.0,Draw
+1950.0,Group 6,Brazil,Sweden,7.0,1.0,HomeWin
+1950.0,Group 6,Brazil,Spain,6.0,1.0,HomeWin
+1950.0,Group 6,Uruguay,Sweden,3.0,2.0,HomeWin
+1950.0,Group 6,Sweden,Spain,3.0,1.0,HomeWin
+1950.0,Group 6,Uruguay,Brazil,2.0,1.0,HomeWin
+1954.0,Group 3,Uruguay,Czechoslovakia,2.0,0.0,HomeWin
+1954.0,Group 3,Austria,Scotland,1.0,0.0,HomeWin
+1954.0,Group 1,Brazil,Mexico,5.0,0.0,HomeWin
+1954.0,Group 1,Yugoslavia,France,1.0,0.0,HomeWin
+1954.0,Group 2,Germany FR,Turkey,4.0,1.0,HomeWin
+1954.0,Group 2,Hungary,Korea Republic,9.0,0.0,HomeWin
+1954.0,Group 4,England,Belgium,4.0,4.0,Draw
+1954.0,Group 4,Switzerland,Italy,2.0,1.0,HomeWin
+1954.0,Group 3,Uruguay,Scotland,7.0,0.0,HomeWin
+1954.0,Group 3,Austria,Czechoslovakia,5.0,0.0,HomeWin
+1954.0,Group 1,France,Mexico,3.0,2.0,HomeWin
+1954.0,Group 1,Brazil,Yugoslavia,1.0,1.0,Draw
+1954.0,Group 2,Hungary,Germany FR,8.0,3.0,HomeWin
+1954.0,Group 2,Turkey,Korea Republic,7.0,0.0,HomeWin
+1954.0,Group 4,England,Switzerland,2.0,0.0,HomeWin
+1954.0,Group 4,Italy,Belgium,4.0,1.0,HomeWin
+1954.0,Group 2,Germany FR,Turkey,7.0,2.0,HomeWin
+1954.0,Group 4,Switzerland,Italy,4.0,1.0,HomeWin
+1954.0,Quarter-finals,Uruguay,England,4.0,2.0,HomeWin
+1954.0,Quarter-finals,Austria,Switzerland,7.0,5.0,HomeWin
+1954.0,Quarter-finals,Germany FR,Yugoslavia,2.0,0.0,HomeWin
+1954.0,Quarter-finals,Hungary,Brazil,4.0,2.0,HomeWin
+1954.0,Semi-finals,Germany FR,Austria,6.0,1.0,HomeWin
+1954.0,Semi-finals,Hungary,Uruguay,4.0,2.0,HomeWin
+1954.0,Match for third place,Austria,Uruguay,3.0,1.0,HomeWin
+1954.0,Final,Germany FR,Hungary,3.0,2.0,HomeWin
+1958.0,Group 3,Sweden,Mexico,3.0,0.0,HomeWin
+1958.0,Group 4,Soviet Union,England,2.0,2.0,Draw
+1958.0,Group 1,Argentina,Germany FR,1.0,3.0,AwayWin
+1958.0,Group 3,Hungary,Wales,1.0,1.0,Draw
+1958.0,Group 2,France,Paraguay,7.0,3.0,HomeWin
+1958.0,Group 2,Yugoslavia,Scotland,1.0,1.0,Draw
+1958.0,Group 4,Brazil,Austria,3.0,0.0,HomeWin
+1958.0,Group 1,Northern Ireland,Czechoslovakia,1.0,0.0,HomeWin
+1958.0,Group 4,Brazil,England,0.0,0.0,Draw
+1958.0,Group 3,Mexico,Wales,1.0,1.0,Draw
+1958.0,Group 2,Paraguay,Scotland,3.0,2.0,HomeWin
+1958.0,Group 2,Yugoslavia,France,3.0,2.0,HomeWin
+1958.0,Group 4,Soviet Union,Austria,2.0,0.0,HomeWin
+1958.0,Group 1,Germany FR,Czechoslovakia,2.0,2.0,Draw
+1958.0,Group 1,Argentina,Northern Ireland,3.0,1.0,HomeWin
+1958.0,Group 3,Sweden,Hungary,2.0,1.0,HomeWin
+1958.0,Group 3,Sweden,Wales,0.0,0.0,Draw
+1958.0,Group 4,Brazil,Soviet Union,2.0,0.0,HomeWin
+1958.0,Group 1,Germany FR,Northern Ireland,2.0,2.0,Draw
+1958.0,Group 3,Hungary,Mexico,4.0,0.0,HomeWin
+1958.0,Group 2,Paraguay,Yugoslavia,3.0,3.0,Draw
+1958.0,Group 2,France,Scotland,2.0,1.0,HomeWin
+1958.0,Group 4,England,Austria,2.0,2.0,Draw
+1958.0,Group 1,Czechoslovakia,Argentina,6.0,1.0,HomeWin
+1958.0,Group 4,Soviet Union,England,1.0,0.0,HomeWin
+1958.0,Group 1,Northern Ireland,Czechoslovakia,2.0,1.0,HomeWin
+1958.0,Group 3,Wales,Hungary,2.0,1.0,HomeWin
+1958.0,Quarter-finals,Brazil,Wales,1.0,0.0,HomeWin
+1958.0,Quarter-finals,Germany FR,Yugoslavia,1.0,0.0,HomeWin
+1958.0,Quarter-finals,Sweden,Soviet Union,2.0,0.0,HomeWin
+1958.0,Quarter-finals,France,Northern Ireland,4.0,0.0,HomeWin
+1958.0,Semi-finals,Sweden,Germany FR,3.0,1.0,HomeWin
+1958.0,Semi-finals,Brazil,France,5.0,2.0,HomeWin
+1958.0,Match for third place,France,Germany FR,6.0,3.0,HomeWin
+1958.0,Final,Brazil,Sweden,5.0,2.0,HomeWin
+1962.0,Group 1,Uruguay,Colombia,2.0,1.0,HomeWin
+1962.0,Group 3,Brazil,Mexico,2.0,0.0,HomeWin
+1962.0,Group 4,Argentina,Bulgaria,1.0,0.0,HomeWin
+1962.0,Group 2,Chile,Switzerland,3.0,1.0,HomeWin
+1962.0,Group 1,Soviet Union,Yugoslavia,2.0,0.0,HomeWin
+1962.0,Group 3,Czechoslovakia,Spain,1.0,0.0,HomeWin
+1962.0,Group 4,Hungary,England,2.0,1.0,HomeWin
+1962.0,Group 2,Germany FR,Italy,0.0,0.0,Draw
+1962.0,Group 1,Yugoslavia,Uruguay,3.0,1.0,HomeWin
+1962.0,Group 3,Brazil,Czechoslovakia,0.0,0.0,Draw
+1962.0,Group 4,England,Argentina,3.0,1.0,HomeWin
+1962.0,Group 2,Chile,Italy,2.0,0.0,HomeWin
+1962.0,Group 1,Soviet Union,Colombia,4.0,4.0,Draw
+1962.0,Group 3,Spain,Mexico,1.0,0.0,HomeWin
+1962.0,Group 4,Hungary,Bulgaria,6.0,1.0,HomeWin
+1962.0,Group 2,Germany FR,Switzerland,2.0,1.0,HomeWin
+1962.0,Group 1,Soviet Union,Uruguay,2.0,1.0,HomeWin
+1962.0,Group 3,Brazil,Spain,2.0,1.0,HomeWin
+1962.0,Group 4,Hungary,Argentina,0.0,0.0,Draw
+1962.0,Group 2,Germany FR,Chile,2.0,0.0,HomeWin
+1962.0,Group 1,Yugoslavia,Colombia,5.0,0.0,HomeWin
+1962.0,Group 3,Mexico,Czechoslovakia,3.0,1.0,HomeWin
+1962.0,Group 4,England,Bulgaria,0.0,0.0,Draw
+1962.0,Group 2,Italy,Switzerland,3.0,0.0,HomeWin
+1962.0,Quarter-finals,Chile,Soviet Union,2.0,1.0,HomeWin
+1962.0,Quarter-finals,Brazil,England,3.0,1.0,HomeWin
+1962.0,Quarter-finals,Czechoslovakia,Hungary,1.0,0.0,HomeWin
+1962.0,Quarter-finals,Yugoslavia,Germany FR,1.0,0.0,HomeWin
+1962.0,Semi-finals,Czechoslovakia,Yugoslavia,3.0,1.0,HomeWin
+1962.0,Semi-finals,Brazil,Chile,4.0,2.0,HomeWin
+1962.0,Match for third place,Chile,Yugoslavia,1.0,0.0,HomeWin
+1962.0,Final,Brazil,Czechoslovakia,3.0,1.0,HomeWin
+1966.0,Group 1,England,Uruguay,0.0,0.0,Draw
+1966.0,Group 2,Germany FR,Switzerland,5.0,0.0,HomeWin
+1966.0,Group 3,Brazil,Bulgaria,2.0,0.0,HomeWin
+1966.0,Group 4,Soviet Union,Korea DPR,3.0,0.0,HomeWin
+1966.0,Group 1,France,Mexico,1.0,1.0,Draw
+1966.0,Group 3,Portugal,Hungary,3.0,1.0,HomeWin
+1966.0,Group 2,Argentina,Spain,2.0,1.0,HomeWin
+1966.0,Group 4,Italy,Chile,2.0,0.0,HomeWin
+1966.0,Group 1,Uruguay,France,2.0,1.0,HomeWin
+1966.0,Group 2,Spain,Switzerland,2.0,1.0,HomeWin
+1966.0,Group 3,Hungary,Brazil,3.0,1.0,HomeWin
+1966.0,Group 4,Korea DPR,Chile,1.0,1.0,Draw
+1966.0,Group 3,Portugal,Bulgaria,3.0,0.0,HomeWin
+1966.0,Group 2,Germany FR,Argentina,0.0,0.0,Draw
+1966.0,Group 4,Soviet Union,Italy,1.0,0.0,HomeWin
+1966.0,Group 1,England,Mexico,2.0,0.0,HomeWin
+1966.0,Group 1,Uruguay,Mexico,0.0,0.0,Draw
+1966.0,Group 2,Argentina,Switzerland,2.0,0.0,HomeWin
+1966.0,Group 3,Portugal,Brazil,3.0,1.0,HomeWin
+1966.0,Group 4,Korea DPR,Italy,1.0,0.0,HomeWin
+1966.0,Group 1,England,France,2.0,0.0,HomeWin
+1966.0,Group 3,Hungary,Bulgaria,3.0,1.0,HomeWin
+1966.0,Group 2,Germany FR,Spain,2.0,1.0,HomeWin
+1966.0,Group 4,Soviet Union,Chile,2.0,1.0,HomeWin
+1966.0,Quarter-finals,England,Argentina,1.0,0.0,HomeWin
+1966.0,Quarter-finals,Germany FR,Uruguay,4.0,0.0,HomeWin
+1966.0,Quarter-finals,Soviet Union,Hungary,2.0,1.0,HomeWin
+1966.0,Quarter-finals,Portugal,Korea DPR,5.0,3.0,HomeWin
+1966.0,Semi-finals,Germany FR,Soviet Union,2.0,1.0,HomeWin
+1966.0,Semi-finals,England,Portugal,2.0,1.0,HomeWin
+1966.0,Match for third place,Portugal,Soviet Union,2.0,1.0,HomeWin
+1966.0,Final,England,Germany FR,4.0,2.0,HomeWin
+1970.0,Group 1,Mexico,Soviet Union,0.0,0.0,Draw
+1970.0,Group 2,Uruguay,Israel,2.0,0.0,HomeWin
+1970.0,Group 4,Peru,Bulgaria,3.0,2.0,HomeWin
+1970.0,Group 3,England,Romania,1.0,0.0,HomeWin
+1970.0,Group 2,Italy,Sweden,1.0,0.0,HomeWin
+1970.0,Group 4,Germany FR,Morocco,2.0,1.0,HomeWin
+1970.0,Group 3,Brazil,Czechoslovakia,4.0,1.0,HomeWin
+1970.0,Group 1,Belgium,El Salvador,3.0,0.0,HomeWin
+1970.0,Group 2,Uruguay,Italy,0.0,0.0,Draw
+1970.0,Group 4,Peru,Morocco,3.0,0.0,HomeWin
+1970.0,Group 3,Romania,Czechoslovakia,2.0,1.0,HomeWin
+1970.0,Group 1,Soviet Union,Belgium,4.0,1.0,HomeWin
+1970.0,Group 2,Sweden,Israel,1.0,1.0,Draw
+1970.0,Group 4,Germany FR,Bulgaria,5.0,2.0,HomeWin
+1970.0,Group 3,Brazil,England,1.0,0.0,HomeWin
+1970.0,Group 1,Mexico,El Salvador,4.0,0.0,HomeWin
+1970.0,Group 2,Sweden,Uruguay,1.0,0.0,HomeWin
+1970.0,Group 4,Germany FR,Peru,3.0,1.0,HomeWin
+1970.0,Group 3,Brazil,Romania,3.0,2.0,HomeWin
+1970.0,Group 1,Soviet Union,El Salvador,2.0,0.0,HomeWin
+1970.0,Group 2,Italy,Israel,0.0,0.0,Draw
+1970.0,Group 4,Bulgaria,Morocco,1.0,1.0,Draw
+1970.0,Group 3,England,Czechoslovakia,1.0,0.0,HomeWin
+1970.0,Group 1,Mexico,Belgium,1.0,0.0,HomeWin
+1970.0,Quarter-finals,Italy,Mexico,4.0,1.0,HomeWin
+1970.0,Quarter-finals,Germany FR,England,3.0,2.0,HomeWin
+1970.0,Quarter-finals,Brazil,Peru,4.0,2.0,HomeWin
+1970.0,Quarter-finals,Uruguay,Soviet Union,1.0,0.0,HomeWin
+1970.0,Semi-finals,Brazil,Uruguay,3.0,1.0,HomeWin
+1970.0,Semi-finals,Italy,Germany FR,4.0,3.0,HomeWin
+1970.0,Match for third place,Germany FR,Uruguay,1.0,0.0,HomeWin
+1970.0,Final,Brazil,Italy,4.0,1.0,HomeWin
+1974.0,Group 2,Brazil,Yugoslavia,0.0,0.0,Draw
+1974.0,Group 1,Germany FR,Chile,1.0,0.0,HomeWin
+1974.0,Group 1,German DR,Australia,2.0,0.0,HomeWin
+1974.0,Group 2,Zaire,Scotland,0.0,2.0,AwayWin
+1974.0,Group 3,Uruguay,Netherlands,0.0,2.0,AwayWin
+1974.0,Group 3,Sweden,Bulgaria,0.0,0.0,Draw
+1974.0,Group 4,Italy,Haiti,3.0,1.0,HomeWin
+1974.0,Group 4,Poland,Argentina,3.0,2.0,HomeWin
+1974.0,Group 1,Australia,Germany FR,0.0,3.0,AwayWin
+1974.0,Group 2,Scotland,Brazil,0.0,0.0,Draw
+1974.0,Group 1,Chile,German DR,1.0,1.0,Draw
+1974.0,Group 2,Yugoslavia,Zaire,9.0,0.0,HomeWin
+1974.0,Group 3,Netherlands,Sweden,0.0,0.0,Draw
+1974.0,Group 3,Bulgaria,Uruguay,1.0,1.0,Draw
+1974.0,Group 4,Haiti,Poland,0.0,7.0,AwayWin
+1974.0,Group 4,Argentina,Italy,1.0,1.0,Draw
+1974.0,Group 2,Scotland,Yugoslavia,1.0,1.0,Draw
+1974.0,Group 1,Australia,Chile,0.0,0.0,Draw
+1974.0,Group 2,Zaire,Brazil,0.0,3.0,AwayWin
+1974.0,Group 1,German DR,Germany FR,1.0,0.0,HomeWin
+1974.0,Group 3,Bulgaria,Netherlands,1.0,4.0,AwayWin
+1974.0,Group 4,Argentina,Haiti,4.0,1.0,HomeWin
+1974.0,Group 3,Sweden,Uruguay,3.0,0.0,HomeWin
+1974.0,Group 4,Poland,Italy,2.0,1.0,HomeWin
+1974.0,Group B,Yugoslavia,Germany FR,0.0,2.0,AwayWin
+1974.0,Group A,Brazil,German DR,1.0,0.0,HomeWin
+1974.0,Group A,Netherlands,Argentina,4.0,0.0,HomeWin
+1974.0,Group B,Sweden,Poland,0.0,1.0,AwayWin
+1974.0,Group A,Argentina,Brazil,1.0,2.0,AwayWin
+1974.0,Group B,Poland,Yugoslavia,2.0,1.0,HomeWin
+1974.0,Group A,German DR,Netherlands,0.0,2.0,AwayWin
+1974.0,Group B,Germany FR,Sweden,4.0,2.0,HomeWin
+1974.0,Group B,Poland,Germany FR,0.0,1.0,AwayWin
+1974.0,Group A,Netherlands,Brazil,2.0,0.0,HomeWin
+1974.0,Group A,Argentina,German DR,1.0,1.0,Draw
+1974.0,Group B,Sweden,Yugoslavia,2.0,1.0,HomeWin
+1974.0,Match for third place,Brazil,Poland,0.0,1.0,AwayWin
+1974.0,Final,Netherlands,Germany FR,1.0,2.0,AwayWin
+1978.0,Group 2,Germany FR,Poland,0.0,0.0,Draw
+1978.0,Group 1,Italy,France,2.0,1.0,HomeWin
+1978.0,Group 2,Tunisia,Mexico,3.0,1.0,HomeWin
+1978.0,Group 1,Argentina,Hungary,2.0,1.0,HomeWin
+1978.0,Group 3,Sweden,Brazil,1.0,1.0,Draw
+1978.0,Group 3,Austria,Spain,2.0,1.0,HomeWin
+1978.0,Group 4,Peru,Scotland,3.0,1.0,HomeWin
+1978.0,Group 4,Netherlands,IR Iran,3.0,0.0,HomeWin
+1978.0,Group 1,Italy,Hungary,3.0,1.0,HomeWin
+1978.0,Group 2,Poland,Tunisia,1.0,0.0,HomeWin
+1978.0,Group 2,Germany FR,Mexico,6.0,0.0,HomeWin
+1978.0,Group 1,Argentina,France,2.0,1.0,HomeWin
+1978.0,Group 3,Brazil,Spain,0.0,0.0,Draw
+1978.0,Group 3,Austria,Sweden,1.0,0.0,HomeWin
+1978.0,Group 4,Scotland,IR Iran,1.0,1.0,Draw
+1978.0,Group 4,Netherlands,Peru,0.0,0.0,Draw
+1978.0,Group 1,France,Hungary,3.0,1.0,HomeWin
+1978.0,Group 2,Poland,Mexico,3.0,1.0,HomeWin
+1978.0,Group 2,Germany FR,Tunisia,0.0,0.0,Draw
+1978.0,Group 1,Italy,Argentina,1.0,0.0,HomeWin
+1978.0,Group 3,Brazil,Austria,1.0,0.0,HomeWin
+1978.0,Group 3,Spain,Sweden,1.0,0.0,HomeWin
+1978.0,Group 4,Peru,Iran,4.0,1.0,HomeWin
+1978.0,Group 4,Scotland,Netherlands,3.0,2.0,HomeWin
+1978.0,Group A,Germany FR,Italy,0.0,0.0,Draw
+1978.0,Group A,Netherlands,Austria,5.0,1.0,HomeWin
+1978.0,Group B,Brazil,Peru,3.0,0.0,HomeWin
+1978.0,Group B,Argentina,Poland,2.0,0.0,HomeWin
+1978.0,Group B,Poland,Peru,1.0,0.0,HomeWin
+1978.0,Group A,Italy,Austria,1.0,0.0,HomeWin
+1978.0,Group A,Germany FR,Netherlands,2.0,2.0,Draw
+1978.0,Group B,Argentina,Brazil,0.0,0.0,Draw
+1978.0,Group A,Netherlands,Italy,2.0,1.0,HomeWin
+1978.0,Group A,Austria,Germany FR,3.0,2.0,HomeWin
+1978.0,Group B,Brazil,Poland,3.0,1.0,HomeWin
+1978.0,Group B,Argentina,Peru,6.0,0.0,HomeWin
+1978.0,Match for third place,Brazil,Italy,2.0,1.0,HomeWin
+1978.0,Final,Argentina,Netherlands,3.0,1.0,HomeWin
+1982.0,Group 3,Argentina,Belgium,0.0,1.0,AwayWin
+1982.0,Group 1,Italy,Poland,0.0,0.0,Draw
+1982.0,Group 6,Brazil,Soviet Union,2.0,1.0,HomeWin
+1982.0,Group 1,Peru,Cameroon,0.0,0.0,Draw
+1982.0,Group 3,Hungary,El Salvador,10.0,1.0,HomeWin
+1982.0,Group 6,Scotland,New Zealand,5.0,2.0,HomeWin
+1982.0,Group 2,Germany FR,Algeria,1.0,2.0,AwayWin
+1982.0,Group 4,England,France,3.0,1.0,HomeWin
+1982.0,Group 5,Spain,Honduras,1.0,1.0,Draw
+1982.0,Group 2,Chile,Austria,0.0,1.0,AwayWin
+1982.0,Group 4,Czechoslovakia,Kuwait,1.0,1.0,Draw
+1982.0,Group 5,Yugoslavia,Northern Ireland,0.0,0.0,Draw
+1982.0,Group 1,Italy,Peru,1.0,1.0,Draw
+1982.0,Group 3,Argentina,Hungary,4.0,1.0,HomeWin
+1982.0,Group 6,Brazil,Scotland,4.0,1.0,HomeWin
+1982.0,Group 1,Poland,Cameroon,0.0,0.0,Draw
+1982.0,Group 3,Belgium,El Salvador,1.0,0.0,HomeWin
+1982.0,Group 6,Soviet Union,New Zealand,3.0,0.0,HomeWin
+1982.0,Group 2,Germany FR,Chile,4.0,1.0,HomeWin
+1982.0,Group 4,England,Czechoslovakia,2.0,0.0,HomeWin
+1982.0,Group 5,Spain,Yugoslavia,2.0,1.0,HomeWin
+1982.0,Group 2,Algeria,Austria,0.0,2.0,AwayWin
+1982.0,Group 4,France,Kuwait,4.0,1.0,HomeWin
+1982.0,Group 5,Honduras,Northern Ireland,1.0,1.0,Draw
+1982.0,Group 1,Poland,Peru,5.0,1.0,HomeWin
+1982.0,Group 3,Belgium,Hungary,1.0,1.0,Draw
+1982.0,Group 6,Soviet Union,Scotland,2.0,2.0,Draw
+1982.0,Group 1,Italy,Cameroon,1.0,1.0,Draw
+1982.0,Group 3,Argentina,El Salvador,2.0,0.0,HomeWin
+1982.0,Group 6,Brazil,New Zealand,4.0,0.0,HomeWin
+1982.0,Group 2,Algeria,Chile,3.0,2.0,HomeWin
+1982.0,Group 4,France,Czechoslovakia,1.0,1.0,Draw
+1982.0,Group 5,Honduras,Yugoslavia,0.0,1.0,AwayWin
+1982.0,Group 2,Germany FR,Austria,1.0,0.0,HomeWin
+1982.0,Group 4,England,Kuwait,1.0,0.0,HomeWin
+1982.0,Group 5,Northern Ireland,Spain,1.0,0.0,HomeWin
+1982.0,Group 4,Austria,France,0.0,1.0,AwayWin
+1982.0,Group 1,Poland,Belgium,3.0,0.0,HomeWin
+1982.0,Group 3,Italy,Argentina,2.0,1.0,HomeWin
+1982.0,Group 2,Germany FR,England,0.0,0.0,Draw
+1982.0,Group 4,Austria,Northern Ireland,2.0,2.0,Draw
+1982.0,Group 1,Belgium,Soviet Union,0.0,1.0,AwayWin
+1982.0,Group 3,Argentina,Brazil,1.0,3.0,AwayWin
+1982.0,Group 2,Germany FR,Spain,2.0,1.0,HomeWin
+1982.0,Group 4,France,Northern Ireland,4.0,1.0,HomeWin
+1982.0,Group 1,Poland,Soviet Union,0.0,0.0,Draw
+1982.0,Group 3,Italy,Brazil,3.0,2.0,HomeWin
+1982.0,Group 2,Spain,England,0.0,0.0,Draw
+1982.0,Semi-finals,Poland,Italy,0.0,2.0,AwayWin
+1982.0,Semi-finals,Germany FR,France,3.0,3.0,Draw
+1982.0,Match for third place,Poland,France,3.0,2.0,HomeWin
+1982.0,Final,Italy,Germany FR,3.0,1.0,HomeWin
+1986.0,Group A,Bulgaria,Italy,1.0,1.0,Draw
+1986.0,Group C,Canada,France,0.0,1.0,AwayWin
+1986.0,Group D,Spain,Brazil,0.0,1.0,AwayWin
+1986.0,Group C,Soviet Union,Hungary,6.0,0.0,HomeWin
+1986.0,Group A,Argentina,Korea Republic,3.0,1.0,HomeWin
+1986.0,Group F,Morocco,Poland,0.0,0.0,Draw
+1986.0,Group D,Algeria,Northern Ireland,1.0,1.0,Draw
+1986.0,Group B,Belgium,Mexico,1.0,2.0,AwayWin
+1986.0,Group F,Portugal,England,1.0,0.0,HomeWin
+1986.0,Group B,Paraguay,Iraq,1.0,0.0,HomeWin
+1986.0,Group E,Scotland,Denmark,0.0,1.0,AwayWin
+1986.0,Group E,Uruguay,Germany FR,1.0,1.0,Draw
+1986.0,Group A,Italy,Argentina,1.0,1.0,Draw
+1986.0,Group C,France,Soviet Union,1.0,1.0,Draw
+1986.0,Group A,Korea Republic,Bulgaria,1.0,1.0,Draw
+1986.0,Group C,Hungary,Canada,2.0,0.0,HomeWin
+1986.0,Group D,Brazil,Algeria,1.0,0.0,HomeWin
+1986.0,Group F,England,Morocco,0.0,0.0,Draw
+1986.0,Group D,Northern Ireland,Spain,1.0,2.0,AwayWin
+1986.0,Group B,Mexico,Paraguay,1.0,1.0,Draw
+1986.0,Group F,Poland,Portugal,1.0,0.0,HomeWin
+1986.0,Group B,Iraq,Belgium,1.0,2.0,AwayWin
+1986.0,Group E,Denmark,Uruguay,6.0,1.0,HomeWin
+1986.0,Group E,Germany FR,Scotland,2.0,1.0,HomeWin
+1986.0,Group C,Hungary,France,0.0,3.0,AwayWin
+1986.0,Group C,Soviet Union,Canada,2.0,0.0,HomeWin
+1986.0,Group A,Korea Republic,Italy,2.0,3.0,AwayWin
+1986.0,Group A,Argentina,Bulgaria,2.0,0.0,HomeWin
+1986.0,Group B,Paraguay,Belgium,2.0,2.0,Draw
+1986.0,Group B,Iraq,Mexico,0.0,1.0,AwayWin
+1986.0,Group F,Portugal,Morocco,1.0,3.0,AwayWin
+1986.0,Group F,England,Poland,3.0,0.0,HomeWin
+1986.0,Group D,Northern Ireland,Brazil,0.0,3.0,AwayWin
+1986.0,Group D,Algeria,Spain,0.0,3.0,AwayWin
+1986.0,Group E,Scotland,Uruguay,0.0,0.0,Draw
+1986.0,Group E,Denmark,Germany FR,2.0,0.0,HomeWin
+1986.0,Round of 16,Soviet Union,Belgium,3.0,4.0,AwayWin
+1986.0,Round of 16,Mexico,Bulgaria,2.0,0.0,HomeWin
+1986.0,Round of 16,Argentina,Uruguay,1.0,0.0,HomeWin
+1986.0,Round of 16,Brazil,Poland,4.0,0.0,HomeWin
+1986.0,Round of 16,Italy,France,0.0,2.0,AwayWin
+1986.0,Round of 16,Morocco,Germany FR,0.0,1.0,AwayWin
+1986.0,Round of 16,England,Paraguay,3.0,0.0,HomeWin
+1986.0,Round of 16,Denmark,Spain,1.0,5.0,AwayWin
+1986.0,Quarter-finals,Brazil,France,1.0,1.0,Draw
+1986.0,Quarter-finals,Germany FR,Mexico,0.0,0.0,Draw
+1986.0,Quarter-finals,Spain,Belgium,1.0,1.0,Draw
+1986.0,Quarter-finals,Argentina,England,2.0,1.0,HomeWin
+1986.0,Semi-finals,France,Germany FR,0.0,2.0,AwayWin
+1986.0,Semi-finals,Argentina,Belgium,2.0,0.0,HomeWin
+1986.0,Match for third place,France,Belgium,4.0,2.0,HomeWin
+1986.0,Final,Argentina,Germany FR,3.0,2.0,HomeWin
+1990.0,Group B,Argentina,Cameroon,0.0,1.0,AwayWin
+1990.0,Group B,Soviet Union,Romania,0.0,2.0,AwayWin
+1990.0,Group D,"rn"">United Arab Emirates",Colombia,0.0,2.0,AwayWin
+1990.0,Group A,Italy,Austria,1.0,0.0,HomeWin
+1990.0,Group A,USA,Czechoslovakia,1.0,5.0,AwayWin
+1990.0,Group C,Brazil,Sweden,2.0,1.0,HomeWin
+1990.0,Group D,Germany FR,Yugoslavia,4.0,1.0,HomeWin
+1990.0,Group C,Costa Rica,Scotland,1.0,0.0,HomeWin
+1990.0,Group F,England,"rn"">Republic of Ireland",1.0,1.0,Draw
+1990.0,Group E,Belgium,Korea Republic,2.0,0.0,HomeWin
+1990.0,Group F,Netherlands,Egypt,1.0,1.0,Draw
+1990.0,Group E,Uruguay,Spain,0.0,0.0,Draw
+1990.0,Group B,Argentina,Soviet Union,2.0,0.0,HomeWin
+1990.0,Group B,Cameroon,Romania,2.0,1.0,HomeWin
+1990.0,Group D,Yugoslavia,Colombia,1.0,0.0,HomeWin
+1990.0,Group A,Italy,USA,1.0,0.0,HomeWin
+1990.0,Group A,Austria,Czechoslovakia,0.0,1.0,AwayWin
+1990.0,Group D,Germany FR,"rn"">United Arab Emirates",5.0,1.0,HomeWin
+1990.0,Group C,Brazil,Costa Rica,1.0,0.0,HomeWin
+1990.0,Group C,Sweden,Scotland,1.0,2.0,AwayWin
+1990.0,Group F,England,Netherlands,0.0,0.0,Draw
+1990.0,Group F,"rn"">Republic of Ireland",Egypt,0.0,0.0,Draw
+1990.0,Group E,Korea Republic,Spain,1.0,3.0,AwayWin
+1990.0,Group E,Belgium,Uruguay,3.0,1.0,HomeWin
+1990.0,Group B,Argentina,Romania,1.0,1.0,Draw
+1990.0,Group B,Cameroon,Soviet Union,0.0,4.0,AwayWin
+1990.0,Group D,Germany FR,Colombia,1.0,1.0,Draw
+1990.0,Group D,Yugoslavia,"rn"">United Arab Emirates",4.0,1.0,HomeWin
+1990.0,Group A,Italy,Czechoslovakia,2.0,0.0,HomeWin
+1990.0,Group A,Austria,USA,2.0,1.0,HomeWin
+1990.0,Group C,Brazil,Scotland,1.0,0.0,HomeWin
+1990.0,Group C,Sweden,Costa Rica,1.0,2.0,AwayWin
+1990.0,Group E,Korea Republic,Uruguay,0.0,1.0,AwayWin
+1990.0,Group E,Belgium,Spain,1.0,2.0,AwayWin
+1990.0,Group F,"rn"">Republic of Ireland",Netherlands,1.0,1.0,Draw
+1990.0,Group F,England,Egypt,1.0,0.0,HomeWin
+1990.0,Round of 16,Cameroon,Colombia,2.0,1.0,HomeWin
+1990.0,Round of 16,Czechoslovakia,Costa Rica,4.0,1.0,HomeWin
+1990.0,Round of 16,Brazil,Argentina,0.0,1.0,AwayWin
+1990.0,Round of 16,Germany FR,Netherlands,2.0,1.0,HomeWin
+1990.0,Round of 16,"rn"">Republic of Ireland",Romania,0.0,0.0,Draw
+1990.0,Round of 16,Italy,Uruguay,2.0,0.0,HomeWin
+1990.0,Round of 16,Spain,Yugoslavia,1.0,2.0,AwayWin
+1990.0,Round of 16,England,Belgium,1.0,0.0,HomeWin
+1990.0,Quarter-finals,Yugoslavia,Argentina,0.0,0.0,Draw
+1990.0,Quarter-finals,Italy,"rn"">Republic of Ireland",1.0,0.0,HomeWin
+1990.0,Quarter-finals,Germany FR,Czechoslovakia,1.0,0.0,HomeWin
+1990.0,Quarter-finals,England,Cameroon,3.0,2.0,HomeWin
+1990.0,Semi-finals,Italy,Argentina,1.0,1.0,Draw
+1990.0,Semi-finals,Germany FR,England,1.0,1.0,Draw
+1990.0,Match for third place,Italy,England,2.0,1.0,HomeWin
+1990.0,Final,Germany FR,Argentina,1.0,0.0,HomeWin
+1994.0,Group C,Spain,Korea Republic,2.0,2.0,Draw
+1994.0,Group C,Germany,Bolivia,1.0,0.0,HomeWin
+1994.0,Group A,USA,Switzerland,1.0,1.0,Draw
+1994.0,Group E,Italy,"rn"">Republic of Ireland",0.0,1.0,AwayWin
+1994.0,Group A,Colombia,Romania,1.0,3.0,AwayWin
+1994.0,Group F,Belgium,Morocco,1.0,0.0,HomeWin
+1994.0,Group E,Norway,Mexico,1.0,0.0,HomeWin
+1994.0,Group B,Cameroon,Sweden,2.0,2.0,Draw
+1994.0,Group F,Netherlands,Saudi Arabia,2.0,1.0,HomeWin
+1994.0,Group B,Brazil,Russia,2.0,0.0,HomeWin
+1994.0,Group D,Argentina,Greece,4.0,0.0,HomeWin
+1994.0,Group D,Nigeria,Bulgaria,3.0,0.0,HomeWin
+1994.0,Group C,Germany,Spain,1.0,1.0,Draw
+1994.0,Group A,Romania,Switzerland,1.0,4.0,AwayWin
+1994.0,Group A,USA,Colombia,2.0,1.0,HomeWin
+1994.0,Group E,Italy,Norway,1.0,0.0,HomeWin
+1994.0,Group C,Korea Republic,Bolivia,0.0,0.0,Draw
+1994.0,Group E,Mexico,"rn"">Republic of Ireland",2.0,1.0,HomeWin
+1994.0,Group B,Sweden,Russia,3.0,1.0,HomeWin
+1994.0,Group B,Brazil,Cameroon,3.0,0.0,HomeWin
+1994.0,Group F,Belgium,Netherlands,1.0,0.0,HomeWin
+1994.0,Group F,Saudi Arabia,Morocco,2.0,1.0,HomeWin
+1994.0,Group D,Argentina,Nigeria,2.0,1.0,HomeWin
+1994.0,Group D,Bulgaria,Greece,4.0,0.0,HomeWin
+1994.0,Group A,USA,Romania,0.0,1.0,AwayWin
+1994.0,Group A,Switzerland,Colombia,0.0,2.0,AwayWin
+1994.0,Group C,Germany,Korea Republic,3.0,2.0,HomeWin
+1994.0,Group C,Bolivia,Spain,1.0,3.0,AwayWin
+1994.0,Group E,"rn"">Republic of Ireland",Norway,0.0,0.0,Draw
+1994.0,Group B,Brazil,Sweden,1.0,1.0,Draw
+1994.0,Group E,Italy,Mexico,1.0,1.0,Draw
+1994.0,Group B,Russia,Cameroon,6.0,1.0,HomeWin
+1994.0,Group F,Morocco,Netherlands,1.0,2.0,AwayWin
+1994.0,Group F,Belgium,Saudi Arabia,0.0,1.0,AwayWin
+1994.0,Group D,Greece,Nigeria,0.0,2.0,AwayWin
+1994.0,Group D,Argentina,Bulgaria,0.0,2.0,AwayWin
+1994.0,Round of 16,Germany,Belgium,3.0,2.0,HomeWin
+1994.0,Round of 16,Spain,Switzerland,3.0,0.0,HomeWin
+1994.0,Round of 16,Saudi Arabia,Sweden,1.0,3.0,AwayWin
+1994.0,Round of 16,Romania,Argentina,3.0,2.0,HomeWin
+1994.0,Round of 16,Netherlands,"rn"">Republic of Ireland",2.0,0.0,HomeWin
+1994.0,Round of 16,Brazil,USA,1.0,0.0,HomeWin
+1994.0,Round of 16,Nigeria,Italy,1.0,2.0,AwayWin
+1994.0,Round of 16,Mexico,Bulgaria,1.0,1.0,Draw
+1994.0,Quarter-finals,Italy,Spain,2.0,1.0,HomeWin
+1994.0,Quarter-finals,Netherlands,Brazil,2.0,3.0,AwayWin
+1994.0,Quarter-finals,Bulgaria,Germany,2.0,1.0,HomeWin
+1994.0,Quarter-finals,Romania,Sweden,2.0,2.0,Draw
+1994.0,Semi-finals,Bulgaria,Italy,1.0,2.0,AwayWin
+1994.0,Semi-finals,Sweden,Brazil,0.0,1.0,AwayWin
+1994.0,Match for third place,Sweden,Bulgaria,4.0,0.0,HomeWin
+1994.0,Final,Brazil,Italy,0.0,0.0,Draw
+1998.0,Group A,Brazil,Scotland,2.0,1.0,HomeWin
+1998.0,Group A,Morocco,Norway,2.0,2.0,Draw
+1998.0,Group B,Italy,Chile,2.0,2.0,Draw
+1998.0,Group B,Cameroon,Austria,1.0,1.0,Draw
+1998.0,Group D,Paraguay,Bulgaria,0.0,0.0,Draw
+1998.0,Group C,Saudi Arabia,Denmark,0.0,1.0,AwayWin
+1998.0,Group C,France,South Africa,3.0,0.0,HomeWin
+1998.0,Group D,Spain,Nigeria,2.0,3.0,AwayWin
+1998.0,Group E,Korea Republic,Mexico,1.0,3.0,AwayWin
+1998.0,Group E,Netherlands,Belgium,0.0,0.0,Draw
+1998.0,Group H,Argentina,Japan,1.0,0.0,HomeWin
+1998.0,Group F,Yugoslavia,Iran,1.0,0.0,HomeWin
+1998.0,Group H,Jamaica,Croatia,1.0,3.0,AwayWin
+1998.0,Group G,England,Tunisia,2.0,0.0,HomeWin
+1998.0,Group G,Romania,Colombia,1.0,0.0,HomeWin
+1998.0,Group F,Germany,USA,2.0,0.0,HomeWin
+1998.0,Group A,Scotland,Norway,1.0,1.0,Draw
+1998.0,Group A,Brazil,Morocco,3.0,0.0,HomeWin
+1998.0,Group B,Chile,Austria,1.0,1.0,Draw
+1998.0,Group B,Italy,Cameroon,3.0,0.0,HomeWin
+1998.0,Group C,South Africa,Denmark,1.0,1.0,Draw
+1998.0,Group C,France,Saudi Arabia,4.0,0.0,HomeWin
+1998.0,Group D,Nigeria,Bulgaria,1.0,0.0,HomeWin
+1998.0,Group D,Spain,Paraguay,0.0,0.0,Draw
+1998.0,Group H,Japan,Croatia,0.0,1.0,AwayWin
+1998.0,Group E,Belgium,Mexico,2.0,2.0,Draw
+1998.0,Group E,Netherlands,Korea Republic,5.0,0.0,HomeWin
+1998.0,Group F,Germany,Yugoslavia,2.0,2.0,Draw
+1998.0,Group H,Argentina,Jamaica,5.0,0.0,HomeWin
+1998.0,Group F,USA,Iran,1.0,2.0,AwayWin
+1998.0,Group G,Colombia,Tunisia,1.0,0.0,HomeWin
+1998.0,Group G,Romania,England,2.0,1.0,HomeWin
+1998.0,Group B,Italy,Austria,2.0,1.0,HomeWin
+1998.0,Group B,Chile,Cameroon,1.0,1.0,Draw
+1998.0,Group A,Scotland,Morocco,0.0,3.0,AwayWin
+1998.0,Group A,Brazil,Norway,1.0,2.0,AwayWin
+1998.0,Group C,France,Denmark,2.0,1.0,HomeWin
+1998.0,Group C,South Africa,Saudi Arabia,2.0,2.0,Draw
+1998.0,Group D,Spain,Bulgaria,6.0,1.0,HomeWin
+1998.0,Group D,Nigeria,Paraguay,1.0,3.0,AwayWin
+1998.0,Group E,Belgium,Korea Republic,1.0,1.0,Draw
+1998.0,Group E,Netherlands,Mexico,2.0,2.0,Draw
+1998.0,Group F,Germany,Iran,2.0,0.0,HomeWin
+1998.0,Group F,USA,Yugoslavia,0.0,1.0,AwayWin
+1998.0,Group H,Japan,Jamaica,1.0,2.0,AwayWin
+1998.0,Group H,Argentina,Croatia,1.0,0.0,HomeWin
+1998.0,Group G,Romania,Tunisia,1.0,1.0,Draw
+1998.0,Group G,Colombia,England,0.0,2.0,AwayWin
+1998.0,Round of 16,Italy,Norway,1.0,0.0,HomeWin
+1998.0,Round of 16,Brazil,Chile,4.0,1.0,HomeWin
+1998.0,Round of 16,France,Paraguay,1.0,0.0,HomeWin
+1998.0,Round of 16,Nigeria,Denmark,1.0,4.0,AwayWin
+1998.0,Round of 16,Germany,Mexico,2.0,1.0,HomeWin
+1998.0,Round of 16,Netherlands,Yugoslavia,2.0,1.0,HomeWin
+1998.0,Round of 16,Romania,Croatia,0.0,1.0,AwayWin
+1998.0,Round of 16,Argentina,England,2.0,2.0,Draw
+1998.0,Quarter-finals,Italy,France,0.0,0.0,Draw
+1998.0,Quarter-finals,Brazil,Denmark,3.0,2.0,HomeWin
+1998.0,Quarter-finals,Netherlands,Argentina,2.0,1.0,HomeWin
+1998.0,Quarter-finals,Germany,Croatia,0.0,3.0,AwayWin
+1998.0,Semi-finals,Brazil,Netherlands,1.0,1.0,Draw
+1998.0,Semi-finals,France,Croatia,2.0,1.0,HomeWin
+1998.0,Match for third place,Netherlands,Croatia,1.0,2.0,AwayWin
+1998.0,Final,Brazil,France,0.0,3.0,AwayWin
+2002.0,Group A,France,Senegal,0.0,1.0,AwayWin
+2002.0,Group A,Uruguay,Denmark,1.0,2.0,AwayWin
+2002.0,Group E,"rn"">Republic of Ireland",Cameroon,1.0,1.0,Draw
+2002.0,Group E,Germany,Saudi Arabia,8.0,0.0,HomeWin
+2002.0,Group F,Argentina,Nigeria,1.0,0.0,HomeWin
+2002.0,Group B,Paraguay,South Africa,2.0,2.0,Draw
+2002.0,Group F,England,Sweden,1.0,1.0,Draw
+2002.0,Group B,Spain,Slovenia,3.0,1.0,HomeWin
+2002.0,Group C,Brazil,Turkey,2.0,1.0,HomeWin
+2002.0,Group G,Italy,Ecuador,2.0,0.0,HomeWin
+2002.0,Group G,Croatia,Mexico,0.0,1.0,AwayWin
+2002.0,Group C,China PR,Costa Rica,0.0,2.0,AwayWin
+2002.0,Group H,Japan,Belgium,2.0,2.0,Draw
+2002.0,Group D,Korea Republic,Poland,2.0,0.0,HomeWin
+2002.0,Group H,Russia,Tunisia,2.0,0.0,HomeWin
+2002.0,Group D,USA,Portugal,3.0,2.0,HomeWin
+2002.0,Group E,Germany,"rn"">Republic of Ireland",1.0,1.0,Draw
+2002.0,Group A,Denmark,Senegal,1.0,1.0,Draw
+2002.0,Group E,Cameroon,Saudi Arabia,1.0,0.0,HomeWin
+2002.0,Group A,France,Uruguay,0.0,0.0,Draw
+2002.0,Group F,Sweden,Nigeria,2.0,1.0,HomeWin
+2002.0,Group F,Argentina,England,0.0,1.0,AwayWin
+2002.0,Group B,Spain,Paraguay,3.0,1.0,HomeWin
+2002.0,Group B,South Africa,Slovenia,1.0,0.0,HomeWin
+2002.0,Group C,Brazil,China PR,4.0,0.0,HomeWin
+2002.0,Group G,Italy,Croatia,1.0,2.0,AwayWin
+2002.0,Group C,Costa Rica,Turkey,1.0,1.0,Draw
+2002.0,Group H,Japan,Russia,1.0,0.0,HomeWin
+2002.0,Group G,Mexico,Ecuador,2.0,1.0,HomeWin
+2002.0,Group D,Korea Republic,USA,1.0,1.0,Draw
+2002.0,Group D,Portugal,Poland,4.0,0.0,HomeWin
+2002.0,Group H,Tunisia,Belgium,1.0,1.0,Draw
+2002.0,Group A,Denmark,France,2.0,0.0,HomeWin
+2002.0,Group A,Senegal,Uruguay,3.0,3.0,Draw
+2002.0,Group E,Saudi Arabia,"rn"">Republic of Ireland",0.0,3.0,AwayWin
+2002.0,Group E,Cameroon,Germany,0.0,2.0,AwayWin
+2002.0,Group F,Sweden,Argentina,1.0,1.0,Draw
+2002.0,Group F,Nigeria,England,0.0,0.0,Draw
+2002.0,Group B,Slovenia,Paraguay,1.0,3.0,AwayWin
+2002.0,Group B,South Africa,Spain,2.0,3.0,AwayWin
+2002.0,Group C,Costa Rica,Brazil,2.0,5.0,AwayWin
+2002.0,Group C,Turkey,China PR,3.0,0.0,HomeWin
+2002.0,Group G,Ecuador,Croatia,1.0,0.0,HomeWin
+2002.0,Group G,Mexico,Italy,1.0,1.0,Draw
+2002.0,Group H,Tunisia,Japan,0.0,2.0,AwayWin
+2002.0,Group D,Portugal,Korea Republic,0.0,1.0,AwayWin
+2002.0,Group D,Poland,USA,3.0,1.0,HomeWin
+2002.0,Group H,Belgium,Russia,3.0,2.0,HomeWin
+2002.0,Round of 16,Denmark,England,0.0,3.0,AwayWin
+2002.0,Round of 16,Germany,Paraguay,1.0,0.0,HomeWin
+2002.0,Round of 16,Spain,"rn"">Republic of Ireland",1.0,1.0,Draw
+2002.0,Round of 16,Sweden,Senegal,1.0,2.0,AwayWin
+2002.0,Round of 16,Brazil,Belgium,2.0,0.0,HomeWin
+2002.0,Round of 16,Mexico,USA,0.0,2.0,AwayWin
+2002.0,Round of 16,Japan,Turkey,0.0,1.0,AwayWin
+2002.0,Round of 16,Korea Republic,Italy,2.0,1.0,HomeWin
+2002.0,Quarter-finals,England,Brazil,1.0,2.0,AwayWin
+2002.0,Quarter-finals,Germany,USA,1.0,0.0,HomeWin
+2002.0,Quarter-finals,Senegal,Turkey,0.0,1.0,AwayWin
+2002.0,Quarter-finals,Spain,Korea Republic,0.0,0.0,Draw
+2002.0,Semi-finals,Germany,Korea Republic,1.0,0.0,HomeWin
+2002.0,Semi-finals,Brazil,Turkey,1.0,0.0,HomeWin
+2002.0,Third place,Korea Republic,Turkey,2.0,3.0,AwayWin
+2002.0,Final,Germany,Brazil,0.0,2.0,AwayWin
+2006.0,Group A,Germany,Costa Rica,4.0,2.0,HomeWin
+2006.0,Group A,Poland,Ecuador,0.0,2.0,AwayWin
+2006.0,Group B,England,Paraguay,1.0,0.0,HomeWin
+2006.0,Group B,"rn"">Trinidad and Tobago",Sweden,0.0,0.0,Draw
+2006.0,Group C,Argentina,C�te d'Ivoire,2.0,1.0,HomeWin
+2006.0,Group C,"rn"">Serbia and Montenegro",Netherlands,0.0,1.0,AwayWin
+2006.0,Group D,Mexico,Iran,3.0,1.0,HomeWin
+2006.0,Group D,Angola,Portugal,0.0,1.0,AwayWin
+2006.0,Group F,Australia,Japan,3.0,1.0,HomeWin
+2006.0,Group E,USA,Czech Republic,0.0,3.0,AwayWin
+2006.0,Group E,Italy,Ghana,2.0,0.0,HomeWin
+2006.0,Group G,Korea Republic,Togo,2.0,1.0,HomeWin
+2006.0,Group G,France,Switzerland,0.0,0.0,Draw
+2006.0,Group F,Brazil,Croatia,1.0,0.0,HomeWin
+2006.0,Group H,Spain,Ukraine,4.0,0.0,HomeWin
+2006.0,Group H,Tunisia,Saudi Arabia,2.0,2.0,Draw
+2006.0,Group A,Germany,Poland,1.0,0.0,HomeWin
+2006.0,Group A,Ecuador,Costa Rica,3.0,0.0,HomeWin
+2006.0,Group B,England,"rn"">Trinidad and Tobago",2.0,0.0,HomeWin
+2006.0,Group B,Sweden,Paraguay,1.0,0.0,HomeWin
+2006.0,Group C,Argentina,"rn"">Serbia and Montenegro",6.0,0.0,HomeWin
+2006.0,Group C,Netherlands,C�te d'Ivoire,2.0,1.0,HomeWin
+2006.0,Group D,Mexico,Angola,0.0,0.0,Draw
+2006.0,Group D,Portugal,IR Iran,2.0,0.0,HomeWin
+2006.0,Group E,Czech Republic,Ghana,0.0,2.0,AwayWin
+2006.0,Group E,Italy,USA,1.0,1.0,Draw
+2006.0,Group F,Japan,Croatia,0.0,0.0,Draw
+2006.0,Group F,Brazil,Australia,2.0,0.0,HomeWin
+2006.0,Group G,France,Korea Republic,1.0,1.0,Draw
+2006.0,Group G,Togo,Switzerland,0.0,2.0,AwayWin
+2006.0,Group H,Saudi Arabia,Ukraine,0.0,4.0,AwayWin
+2006.0,Group H,Spain,Tunisia,3.0,1.0,HomeWin
+2006.0,Group A,Ecuador,Germany,0.0,3.0,AwayWin
+2006.0,Group A,Costa Rica,Poland,1.0,2.0,AwayWin
+2006.0,Group B,Sweden,England,2.0,2.0,Draw
+2006.0,Group B,Paraguay,"rn"">Trinidad and Tobago",2.0,0.0,HomeWin
+2006.0,Group D,Iran,Angola,1.0,1.0,Draw
+2006.0,Group D,Portugal,Mexico,2.0,1.0,HomeWin
+2006.0,Group C,Netherlands,Argentina,0.0,0.0,Draw
+2006.0,Group C,C�te d'Ivoire,"rn"">Serbia and Montenegro",3.0,2.0,HomeWin
+2006.0,Group E,Czech Republic,Italy,0.0,2.0,AwayWin
+2006.0,Group E,Ghana,USA,2.0,1.0,HomeWin
+2006.0,Group F,Japan,Brazil,1.0,4.0,AwayWin
+2006.0,Group F,Croatia,Australia,2.0,2.0,Draw
+2006.0,Group H,Ukraine,Tunisia,1.0,0.0,HomeWin
+2006.0,Group H,Saudi Arabia,Spain,0.0,1.0,AwayWin
+2006.0,Group G,Togo,France,0.0,2.0,AwayWin
+2006.0,Group G,Switzerland,Korea Republic,2.0,0.0,HomeWin
+2006.0,Round of 16,Germany,Sweden,2.0,0.0,HomeWin
+2006.0,Round of 16,Argentina,Mexico,2.0,1.0,HomeWin
+2006.0,Round of 16,England,Ecuador,1.0,0.0,HomeWin
+2006.0,Round of 16,Portugal,Netherlands,1.0,0.0,HomeWin
+2006.0,Round of 16,Italy,Australia,1.0,0.0,HomeWin
+2006.0,Round of 16,Switzerland,Ukraine,0.0,0.0,Draw
+2006.0,Round of 16,Brazil,Ghana,3.0,0.0,HomeWin
+2006.0,Round of 16,Spain,France,1.0,3.0,AwayWin
+2006.0,Quarter-finals,Germany,Argentina,1.0,1.0,Draw
+2006.0,Quarter-finals,Italy,Ukraine,3.0,0.0,HomeWin
+2006.0,Quarter-finals,England,Portugal,0.0,0.0,Draw
+2006.0,Quarter-finals,Brazil,France,0.0,1.0,AwayWin
+2006.0,Semi-finals,Germany,Italy,0.0,2.0,AwayWin
+2006.0,Semi-finals,Portugal,France,0.0,1.0,AwayWin
+2006.0,Third place,Germany,Portugal,3.0,1.0,HomeWin
+2006.0,Final,Italy,France,1.0,1.0,Draw
+2010.0,Group A,South Africa,Mexico,1.0,1.0,Draw
+2010.0,Group A,Uruguay,France,0.0,0.0,Draw
+2010.0,Group B,Korea Republic,Greece,2.0,0.0,HomeWin
+2010.0,Group B,Argentina,Nigeria,1.0,0.0,HomeWin
+2010.0,Group C,England,USA,1.0,1.0,Draw
+2010.0,Group C,Algeria,Slovenia,0.0,1.0,AwayWin
+2010.0,Group D,Serbia,Ghana,0.0,1.0,AwayWin
+2010.0,Group D,Germany,Australia,4.0,0.0,HomeWin
+2010.0,Group E,Netherlands,Denmark,2.0,0.0,HomeWin
+2010.0,Group E,Japan,Cameroon,1.0,0.0,HomeWin
+2010.0,Group F,Italy,Paraguay,1.0,1.0,Draw
+2010.0,Group F,New Zealand,Slovakia,1.0,1.0,Draw
+2010.0,Group G,C�te d'Ivoire,Portugal,0.0,0.0,Draw
+2010.0,Group G,Brazil,Korea DPR,2.0,1.0,HomeWin
+2010.0,Group H,Honduras,Chile,0.0,1.0,AwayWin
+2010.0,Group H,Spain,Switzerland,0.0,1.0,AwayWin
+2010.0,Group A,South Africa,Uruguay,0.0,3.0,AwayWin
+2010.0,Group B,Argentina,Korea Republic,4.0,1.0,HomeWin
+2010.0,Group B,Greece,Nigeria,2.0,1.0,HomeWin
+2010.0,Group A,France,Mexico,0.0,2.0,AwayWin
+2010.0,Group D,Germany,Serbia,0.0,1.0,AwayWin
+2010.0,Group C,Slovenia,USA,2.0,2.0,Draw
+2010.0,Group C,England,Algeria,0.0,0.0,Draw
+2010.0,Group E,Netherlands,Japan,1.0,0.0,HomeWin
+2010.0,Group D,Ghana,Australia,1.0,1.0,Draw
+2010.0,Group E,Cameroon,Denmark,1.0,2.0,AwayWin
+2010.0,Group F,Slovakia,Paraguay,0.0,2.0,AwayWin
+2010.0,Group F,Italy,New Zealand,1.0,1.0,Draw
+2010.0,Group G,Brazil,C�te d'Ivoire,3.0,1.0,HomeWin
+2010.0,Group G,Portugal,Korea DPR,7.0,0.0,HomeWin
+2010.0,Group H,Chile,Switzerland,1.0,0.0,HomeWin
+2010.0,Group H,Spain,Honduras,2.0,0.0,HomeWin
+2010.0,Group A,Mexico,Uruguay,0.0,1.0,AwayWin
+2010.0,Group A,France,South Africa,1.0,2.0,AwayWin
+2010.0,Group B,Nigeria,Korea Republic,2.0,2.0,Draw
+2010.0,Group B,Greece,Argentina,0.0,2.0,AwayWin
+2010.0,Group C,Slovenia,England,0.0,1.0,AwayWin
+2010.0,Group C,USA,Algeria,1.0,0.0,HomeWin
+2010.0,Group D,Ghana,Germany,0.0,1.0,AwayWin
+2010.0,Group D,Australia,Serbia,2.0,1.0,HomeWin
+2010.0,Group F,Slovakia,Italy,3.0,2.0,HomeWin
+2010.0,Group F,Paraguay,New Zealand,0.0,0.0,Draw
+2010.0,Group E,Denmark,Japan,1.0,3.0,AwayWin
+2010.0,Group E,Cameroon,Netherlands,1.0,2.0,AwayWin
+2010.0,Group G,Portugal,Brazil,0.0,0.0,Draw
+2010.0,Group G,Korea DPR,C�te d'Ivoire,0.0,3.0,AwayWin
+2010.0,Group H,Chile,Spain,1.0,2.0,AwayWin
+2010.0,Group H,Switzerland,Honduras,0.0,0.0,Draw
+2010.0,Round of 16,Uruguay,Korea Republic,2.0,1.0,HomeWin
+2010.0,Round of 16,USA,Ghana,1.0,2.0,AwayWin
+2010.0,Round of 16,Germany,England,4.0,1.0,HomeWin
+2010.0,Round of 16,Argentina,Mexico,3.0,1.0,HomeWin
+2010.0,Round of 16,Netherlands,Slovakia,2.0,1.0,HomeWin
+2010.0,Round of 16,Brazil,Chile,3.0,0.0,HomeWin
+2010.0,Round of 16,Paraguay,Japan,0.0,0.0,Draw
+2010.0,Round of 16,Spain,Portugal,1.0,0.0,HomeWin
+2010.0,Quarter-finals,Netherlands,Brazil,2.0,1.0,HomeWin
+2010.0,Quarter-finals,Uruguay,Ghana,1.0,1.0,Draw
+2010.0,Quarter-finals,Argentina,Germany,0.0,4.0,AwayWin
+2010.0,Quarter-finals,Paraguay,Spain,0.0,1.0,AwayWin
+2010.0,Semi-finals,Uruguay,Netherlands,2.0,3.0,AwayWin
+2010.0,Semi-finals,Germany,Spain,0.0,1.0,AwayWin
+2010.0,Match for third place,Uruguay,Germany,2.0,3.0,AwayWin
+2010.0,Final,Netherlands,Spain,0.0,1.0,AwayWin
+2014.0,Group A,Brazil,Croatia,3.0,1.0,HomeWin
+2014.0,Group A,Mexico,Cameroon,1.0,0.0,HomeWin
+2014.0,Group B,Spain,Netherlands,1.0,5.0,AwayWin
+2014.0,Group B,Chile,Australia,3.0,1.0,HomeWin
+2014.0,Group C,Colombia,Greece,3.0,0.0,HomeWin
+2014.0,Group D,Uruguay,Costa Rica,1.0,3.0,AwayWin
+2014.0,Group D,England,Italy,1.0,2.0,AwayWin
+2014.0,Group C,C�te d'Ivoire,Japan,2.0,1.0,HomeWin
+2014.0,Group E,Switzerland,Ecuador,2.0,1.0,HomeWin
+2014.0,Group E,France,Honduras,3.0,0.0,HomeWin
+2014.0,Group F,Argentina,"rn"">Bosnia and Herzegovina",2.0,1.0,HomeWin
+2014.0,Group G,Germany,Portugal,4.0,0.0,HomeWin
+2014.0,Group F,IR Iran,Nigeria,0.0,0.0,Draw
+2014.0,Group G,Ghana,USA,1.0,2.0,AwayWin
+2014.0,Group H,Belgium,Algeria,2.0,1.0,HomeWin
+2014.0,Group A,Brazil,Mexico,0.0,0.0,Draw
+2014.0,Group H,Russia,Korea Republic,1.0,1.0,Draw
+2014.0,Group B,Australia,Netherlands,2.0,3.0,AwayWin
+2014.0,Group B,Spain,Chile,0.0,2.0,AwayWin
+2014.0,Group A,Cameroon,Croatia,0.0,4.0,AwayWin
+2014.0,Group C,Colombia,C�te d'Ivoire,2.0,1.0,HomeWin
+2014.0,Group D,Uruguay,England,2.0,1.0,HomeWin
+2014.0,Group C,Japan,Greece,0.0,0.0,Draw
+2014.0,Group D,Italy,Costa Rica,0.0,1.0,AwayWin
+2014.0,Group E,Switzerland,France,2.0,5.0,AwayWin
+2014.0,Group E,Honduras,Ecuador,1.0,2.0,AwayWin
+2014.0,Group F,Argentina,IR Iran,1.0,0.0,HomeWin
+2014.0,Group G,Germany,Ghana,2.0,2.0,Draw
+2014.0,Group F,Nigeria,"rn"">Bosnia and Herzegovina",1.0,0.0,HomeWin
+2014.0,Group H,Belgium,Russia,1.0,0.0,HomeWin
+2014.0,Group H,Korea Republic,Algeria,2.0,4.0,AwayWin
+2014.0,Group G,USA,Portugal,2.0,2.0,Draw
+2014.0,Group B,Australia,Spain,0.0,3.0,AwayWin
+2014.0,Group B,Netherlands,Chile,2.0,0.0,HomeWin
+2014.0,Group A,Cameroon,Brazil,1.0,4.0,AwayWin
+2014.0,Group A,Croatia,Mexico,1.0,3.0,AwayWin
+2014.0,Group D,Italy,Uruguay,0.0,1.0,AwayWin
+2014.0,Group D,Costa Rica,England,0.0,0.0,Draw
+2014.0,Group C,Japan,Colombia,1.0,4.0,AwayWin
+2014.0,Group C,Greece,C�te d'Ivoire,2.0,1.0,HomeWin
+2014.0,Group F,Nigeria,Argentina,2.0,3.0,AwayWin
+2014.0,Group F,"rn"">Bosnia and Herzegovina",IR Iran,3.0,1.0,HomeWin
+2014.0,Group E,Honduras,Switzerland,0.0,3.0,AwayWin
+2014.0,Group E,Ecuador,France,0.0,0.0,Draw
+2014.0,Group G,USA,Germany,0.0,1.0,AwayWin
+2014.0,Group G,Portugal,Ghana,2.0,1.0,HomeWin
+2014.0,Group H,Korea Republic,Belgium,0.0,1.0,AwayWin
+2014.0,Group H,Algeria,Russia,1.0,1.0,Draw
+2014.0,Round of 16,Brazil,Chile,1.0,1.0,Draw
+2014.0,Round of 16,Colombia,Uruguay,2.0,0.0,HomeWin
+2014.0,Round of 16,France,Nigeria,2.0,0.0,HomeWin
+2014.0,Round of 16,Germany,Algeria,2.0,1.0,HomeWin
+2014.0,Quarter-finals,Brazil,Colombia,2.0,1.0,HomeWin
+2014.0,Quarter-finals,France,Germany,0.0,1.0,AwayWin
+2014.0,Semi-finals,Brazil,Germany,1.0,7.0,AwayWin
+2014.0,Play-off for third place,Brazil,Netherlands,0.0,3.0,AwayWin
+2014.0,Final,Germany,Argentina,1.0,0.0,HomeWin
+2014.0,Semi-finals,Netherlands,Argentina,0.0,0.0,Draw
+2014.0,Quarter-finals,Netherlands,Costa Rica,0.0,0.0,Draw
+2014.0,Quarter-finals,Argentina,Belgium,1.0,0.0,HomeWin
+2014.0,Round of 16,Netherlands,Mexico,2.0,1.0,HomeWin
+2014.0,Round of 16,Costa Rica,Greece,1.0,1.0,Draw
+2014.0,Round of 16,Argentina,Switzerland,1.0,0.0,HomeWin
+2014.0,Round of 16,Belgium,USA,2.0,1.0,HomeWin
+2014.0,Round of 16,Brazil,Chile,1.0,1.0,Draw
+2014.0,Round of 16,Colombia,Uruguay,2.0,0.0,HomeWin
+2014.0,Round of 16,Netherlands,Mexico,2.0,1.0,HomeWin
+2014.0,Round of 16,Costa Rica,Greece,1.0,1.0,Draw
+2014.0,Round of 16,France,Nigeria,2.0,0.0,HomeWin
+2014.0,Round of 16,Germany,Algeria,2.0,1.0,HomeWin
+2014.0,Round of 16,Argentina,Switzerland,1.0,0.0,HomeWin
+2014.0,Round of 16,Belgium,USA,2.0,1.0,HomeWin
+2014.0,Quarter-finals,France,Germany,0.0,1.0,AwayWin
+2014.0,Quarter-finals,Brazil,Colombia,2.0,1.0,HomeWin
+2014.0,Quarter-finals,Argentina,Belgium,1.0,0.0,HomeWin
+2014.0,Quarter-finals,Netherlands,Costa Rica,0.0,0.0,Draw
+2014.0,Semi-finals,Brazil,Germany,1.0,7.0,AwayWin
+2014.0,Semi-finals,Netherlands,Argentina,0.0,0.0,Draw
+2014.0,Play-off for third place,Brazil,Netherlands,0.0,3.0,AwayWin
+2014.0,Final,Germany,Argentina,1.0,0.0,HomeWin
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
+,,,,,,Draw
