@@ -1,5 +1,8 @@
 # World Cup 2026 Machine Learning Simulator
 
+![World Cup Simulator Screenshot](ScreenshotMLWorldCup2026.png)
+
+
 This project uses a machine learning model to simulate the full 2026 FIFA World Cup tournament, from group stage to final, based on real historical match data. It includes a full pipeline: data preprocessing, model training, simulation logic, and an interactive interface built with Streamlit.
 
 ---
@@ -54,4 +57,3 @@ world-cup-predictor/
 ```bash
 git clone https://github.com/your-username/world-cup-2026-predictor.git
 cd world-cup-2026-predictor
-
